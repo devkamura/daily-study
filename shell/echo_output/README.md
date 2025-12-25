@@ -24,7 +24,7 @@ $ cat result.txt
 これは標準出力を標準エラー出力として表示します
 ```
 
-#### 最終問題
+### 最終問題
 
 ```
 $ ./echo_2.sh 1>normal.txt 2>error.txt
