@@ -36,7 +36,7 @@ $ ls -l sample.sh
 chmod +x で実行権限を付与する。
 
 ```
-chmod +x sample.sh
+$ chmod +x sample.sh
 ```
 
 ### 何をしているか
